@@ -18,7 +18,7 @@
 <br>
 <div margin-top="50px" align="center">
   <br>
-<img align="center" margin-left="50px" margin-top="50px" alt="NOVA2OP's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rishabh4&layout=compact&lang_count=20)](https://wakatime.com/@Rishabh4)"/>
+<img align="center" margin-left="50px" margin-top="50px" alt="NOVA2OP's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=NOVA2OP&layout=compact&lang_count=20)](https://wakatime.com/@NOVA2OP)"/>
 </div>
 <div align = "center">
 <img alt="NOVA2OP's GitHub Stats" src="https://awesomesam.vercel.app/api?username=NOVA2OP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&number_format=long&theme=radical&locale=en&hide_border=false&order=2" height="150"/>
