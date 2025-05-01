@@ -4,10 +4,6 @@
 - 💞️ DM me for collabs
 - 📫 How to reach me, email: mail2advik@gmail.com
 
-# My Discord
-[![](https://discord.c99.nl/widget/theme-4/713056818972066140.png)](https://discord.com/users/713056818972066140)
-
-
 # GitHub Stats
 <div>
 <br>
