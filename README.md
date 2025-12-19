@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Advik
-- 👀 Studying and doing some useless projects rn.
+- 👀 Studying and doing some projects rn.
 - 🌱 Languages: Python, C, C++, Java, JS, HTML, CSS
 - 💞️ DM me for collabs
 - 📫 How to reach me, email: mail2advik@gmail.com
