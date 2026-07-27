@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Advik
-- 👀 Studying and doing some projects rn.
-- 🌱 Languages: Python, C, C++, Java, JS, HTML, CSS
-- 💞️ DM me for collabs
-- 📫 How to reach me, email: mail2advik@gmail.com
+-  Hi, I’m Advik
+-  Studying and trying to make an impact with my projects.
+-  Languages: C++, C, Python, Java, JS, HTML, CSS
+-  I love to play video games and play some guitar.
+-  Email me for collabs
+-  How to reach me, email: mail2advik@gmail.com
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,django,cpp,mysql,postgres,tensorflow,git,docker,ubuntu,vscode&perline=5" alt="My Tech Stack" />
 
 # GitHub Stats
 <div>
