@@ -4,9 +4,12 @@
 -  I love to play video games and play some guitar.
 -  Email me for collabs
 -  How to reach me, email: mail2advik@gmail.com
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,django,cpp,mysql,postgres,tensorflow,git,docker,ubuntu,vscode&perline=5" alt="My Tech Stack" />
-
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Cytoscape-EA7C16?style=for-the-badge&logo=cytoscape&logoColor=white" alt="Cytoscape" />
+  <img src="https://img.shields.io/badge/UCSF_Chimera-4B78B5?style=for-the-badge" alt="UCSF Chimera" />
+  <img src="https://img.shields.io/badge/RDKit-3178C6?style=for-the-badge" alt="RDKit" />
+</p>
 # GitHub Stats
 <div>
 <br>
