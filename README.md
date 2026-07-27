@@ -1,4 +1,4 @@
--  Hi, I’m Advik
+-  Hi, I’m Advik Gupta.
 -  Studying and trying to make an impact with my projects.
 -  Languages: C++, C, Python, Java, JS, HTML, CSS
 -  I love to play video games and play some guitar.
